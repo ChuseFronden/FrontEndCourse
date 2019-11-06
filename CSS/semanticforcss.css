@@ -1,0 +1,23 @@
+h1 {
+    text-transform: uppercase;
+    color: red;
+}
+section {
+    font-family: "Roboto", sans-serif;
+    margin-left: 5%;
+}
+
+ul {
+  list-style-type: none;
+  
+}
+li a{
+    text-decoration:none;
+    text-transform: uppercase;
+}
+div {
+    color: darkblue;
+}
+body {
+  background-image: url("http://myy.haaga-helia.fi/~a1800754/FrontEnd/bananas.png");
+}

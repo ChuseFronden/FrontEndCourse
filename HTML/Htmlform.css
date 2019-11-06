@@ -1,0 +1,29 @@
+
+input
+ { 
+width
+:  97%  ; 
+padding
+:  4px  ; 
+margin
+:  10px   ; 
+} 
+select
+ { 
+width
+:  95%  ; 
+padding
+:  4px  ; 
+margin
+:  10px    10px   ; 
+}    
+
+
+/* The 'color' means color of the text */
+/* The latter rules always apply/override */
+
+/* 
+    This is how you write comments in CSS files.
+    The comment can span multiple lines
+*/
+

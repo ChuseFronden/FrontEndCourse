@@ -1,0 +1,7 @@
+div.gallery {
+    margin: 10px;
+    border: 1.5px solid pink;
+    float: left;
+    width: 200px;
+    height: 80px;
+}
